@@ -7,16 +7,18 @@ Arquivo (s):
   <li> Login </li>
 </ul>
 
-Descrição: Pagina Web de cadastro de livro
+Descrição: Pagina web onde é possivel fazer login.
 
-Tecnologias Utilizadas:
+Tecnologias Utilizadas: Google app script.
 
 <ul>
-  <li> Visual Studio</li>
+  <li> Google app script</li>
 </ul>
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
-Descrição: Eu fiz tudo corretamente, não vi nenhuma dificuldade além de encontrar alguns erros de codigo.
+Descrição: Eu fiz tudo corretamente, vi algumas dificuldade além de encontrar alguns erros de codigo.
 
 Link para o acesso de ao projeto:
+
+<a href=https://script.google.com/macros/s/AKfycbwmSd3tVsaLqtixdgN1w2YqmauES2AtrkPavJc2wqN5OMtl0LrDz0rrL-iJIUtN5QVV/exec</a>
