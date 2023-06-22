@@ -9,7 +9,7 @@ Arquivo (s):
 
 Descrição: Pagina web onde é possivel fazer login.
 
-Tecnologias Utilizadas: Google app script.
+Tecnologias Utilizadas:
 
 <ul>
   <li> Google app script</li>
